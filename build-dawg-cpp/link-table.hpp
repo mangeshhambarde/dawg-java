@@ -1,8 +1,8 @@
 #ifndef DAWGDIC_LINK_TABLE_H
 #define DAWGDIC_LINK_TABLE_H
 
-#include "base-types.h"
-#include "dictionary-unit.h"
+#include "base-types.hpp"
+#include "dictionary-unit.hpp"
 
 #include <vector>
 

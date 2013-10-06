@@ -3,10 +3,10 @@
 
 #include <vector>
 
-#include "dawg.h"
-#include "dictionary.h"
-#include "dictionary-extra-unit.h"
-#include "link-table.h"
+#include "dawg.hpp"
+#include "dictionary.hpp"
+#include "dictionary-extra-unit.hpp"
+#include "link-table.hpp"
 
 namespace dawgdic {
 

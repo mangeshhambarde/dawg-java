@@ -3,7 +3,7 @@
 
 #include <vector>
 
-#include "base-types.h"
+#include "base-types.hpp"
 
 namespace dawgdic {
 

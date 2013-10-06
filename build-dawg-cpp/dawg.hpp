@@ -1,9 +1,9 @@
 #ifndef DAWGDIC_DAWG_H
 #define DAWGDIC_DAWG_H
 
-#include "base-unit.h"
-#include "bit-pool.h"
-#include "object-pool.h"
+#include "base-unit.hpp"
+#include "bit-pool.hpp"
+#include "object-pool.hpp"
 
 namespace dawgdic {
 

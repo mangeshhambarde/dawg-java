@@ -5,8 +5,8 @@
 #include <stack>
 #include <vector>
 
-#include "dawg.h"
-#include "dawg-unit.h"
+#include "dawg.hpp"
+#include "dawg-unit.hpp"
 
 namespace dawgdic {
 

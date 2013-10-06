@@ -1,5 +1,5 @@
-#include "dawg-builder.h"
-#include "dictionary-builder.h"
+#include "dawg-builder.hpp"
+#include "dictionary-builder.hpp"
 
 #include <cstdlib>
 #include <fstream>

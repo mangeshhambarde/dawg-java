@@ -1,7 +1,7 @@
 #ifndef DAWGDIC_DICTIONARY_EXTRA_UNIT_H
 #define DAWGDIC_DICTIONARY_EXTRA_UNIT_H
 
-#include "base-types.h"
+#include "base-types.hpp"
 
 namespace dawgdic {
 

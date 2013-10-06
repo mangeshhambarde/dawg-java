@@ -1,7 +1,7 @@
 #ifndef DAWGDIC_DAWG_UNIT_H
 #define DAWGDIC_DAWG_UNIT_H
 
-#include "base-types.h"
+#include "base-types.hpp"
 
 namespace dawgdic {
 

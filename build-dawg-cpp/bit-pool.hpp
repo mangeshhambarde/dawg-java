@@ -1,7 +1,7 @@
 #ifndef DAWGDIC_BIT_POOL_H
 #define DAWGDIC_BIT_POOL_H
 
-#include "object-pool.h"
+#include "object-pool.hpp"
 
 namespace dawgdic {
 
