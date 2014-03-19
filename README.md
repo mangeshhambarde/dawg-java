@@ -7,7 +7,7 @@ This Java class provides read-only access to files created by the [dawgdic] (htt
 
 Building in C++
 ---------------
-A single C++ source file "dawgdic-build.cc" which uses the dawgdic library is included in this package to build a dawg from a lexicon file, which has lexicons separated by newlines, and write it to disk. Please take care of different newline conventions to avoid nasty surprises.
+A single C++ source file "dawgdic-build.cpp" which uses the dawgdic library is included in this package to build a dawg from a lexicon file, which has **sorted** lexicons separated by **line feeds** (not CRLF), and write it to disk. This code is not rigorously tested, so may give nasty suprises or fail miserably.
 
 	g++ -O3 dawgdic-build.cc -o dawgdic-build
 	dawgdic-build lexicons.txt dawg.bin
