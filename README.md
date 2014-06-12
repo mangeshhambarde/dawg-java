@@ -9,6 +9,7 @@ Some properties:
 - Small size, fast loading (stored as an array of ints)
 
 This Java class provides read-only access to files created by the [dawgdic] (https://code.google.com/p/dawgdic) C++ library and [DAWG] (https://github.com/kmike/DAWG) Python module.
+Taken from: https://github.com/rttlesnke/jmorphy2-solr-stemmer/blob/09da1f5f44f125f6f179fd8430406c6c2c465351/src/java/com/uaprom/stemmer/pymorphy2/Pymorphy2Dictionary.java
 
 Building in C++
 ---------------
